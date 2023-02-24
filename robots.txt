@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://drkrys.github.io/sitemap.xml
+Sitemap: https://dr-krys.github.io/sitemap.xml

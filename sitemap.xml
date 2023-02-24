@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://drkrys.github.io/</loc>
+    <loc>https://dr-krys.github.io/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://drkrys.github.io/blog/</loc>
+    <loc>https://dr-krys.github.io/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://drkrys.github.io/blog/markdown/</loc>
+    <loc>https://dr-krys.github.io/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://drkrys.github.io/markdown-syntax-guide/</loc>
+    <loc>https://dr-krys.github.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://drkrys.github.io/blog/syntax/</loc>
+    <loc>https://dr-krys.github.io/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://drkrys.github.io/about/</loc>
+    <loc>https://dr-krys.github.io/about/</loc>
   </url><url>
-    <loc>https://drkrys.github.io/publications/</loc>
+    <loc>https://dr-krys.github.io/publications/</loc>
   </url><url>
-    <loc>https://drkrys.github.io/talks/</loc>
+    <loc>https://dr-krys.github.io/talks/</loc>
   </url>
 </urlset>
